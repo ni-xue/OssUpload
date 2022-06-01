@@ -1,9 +1,0 @@
-{
-  "Settings": {
-    "AccessKeyId": "LTAI5tLfsb1bDZWoEUpcQH4b",
-    "AccessKeySecret": "dxrdL0txXqeHrGo7WDpTD9S3Z33cpY",
-    "Endpoint": "http://oss-cn-shenzhen.aliyuncs.com",
-    "BucketName": "cstest10",
-    "ConcurrentUploadCount": 20
-  }
-}
